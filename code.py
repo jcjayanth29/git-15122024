@@ -1,0 +1,1 @@
+print ("sun rises in the east")
